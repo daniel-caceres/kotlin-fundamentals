@@ -1,2 +1,2 @@
-# funcional-programming-java
-funcional-programming-java
+# functional-programming-java
+functional-programming-java
